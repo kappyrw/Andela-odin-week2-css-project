@@ -5,7 +5,10 @@ This project is a sample HTML webpage created as part of the Odin CSS Project. I
 Table of Contents
 
 1.css file 2.html file 3.pictures
+
+
 **Description**
+
 
 The HTML code provided in this project represents website layout.
 
@@ -15,6 +18,8 @@ The HTML code provided in this project represents website layout.
     Open the index.html file in a web browser.
 
 Feel free to modify the HTML and CSS files to customize the content and styling according to your needs.
+
+
 **Installation**
 
 No installation is required for this project.
